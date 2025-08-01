@@ -1,36 +1,36 @@
-Projeto Java - Leitura de Arquivo e Modelagem de Animais com Endereços
-Descrição
-Este projeto em Java demonstra a leitura de arquivos texto e a modelagem de entidades utilizando classes Animal e Endereco. Ele inclui:
+🐾 Projeto Java - Leitura de Arquivo & Modelagem de Animais 📝
+📋 Descrição
+Este projeto em Java mostra como:
 
-Leitura de um arquivo texto (formulario.txt) exibindo seu conteúdo no console.
+📂 Ler um arquivo texto (formulario.txt) e exibir seu conteúdo no console;
 
-Classes modelo para representar animais e seus endereços relacionados, com atributos básicos e métodos getters e setters.
+🐶 Modelar entidades Animal e Endereco com atributos e métodos para manipulação.
 
-Estrutura do Projeto
+🏗 Estrutura do Projeto
 application.Program
-Classe principal que lê um arquivo texto e imprime seu conteúdo.
+📖 Classe principal que lê e imprime o conteúdo do arquivo texto.
 
 entities.Animal
-Classe que representa um animal com atributos como nome, sexo, tipo, idade, peso e raça. Também possui uma lista de endereços associados.
+🐕 Representa um animal com informações como nome, sexo, tipo, idade, peso e raça, além de uma lista de endereços.
 
 entities.Endereco
-Classe que representa um endereço com cidade, bairro, rua e CEP.
+🏠 Representa um endereço com cidade, bairro, rua e CEP.
 
-Como Usar
-Preparar o arquivo de texto
-Coloque o arquivo formulario.txt na pasta C:/documents/ com o conteúdo desejado para ser lido pelo programa.
+🚀 Como Usar
+📂 Prepare o arquivo de texto
+Coloque o arquivo formulario.txt na pasta C:/documents/ com o conteúdo desejado.
 
-Executar o programa
-Execute a classe Program para que o conteúdo do arquivo seja exibido no console.
+▶️ Execute o programa
+Rode a classe Program para ver o conteúdo do arquivo no console.
 
-Dependências
-Java 8 ou superior
+⚙️ Dependências
+☕ Java 8 ou superior
 
-Possíveis Extensões
-Implementar métodos para adicionar endereços aos animais.
+💡 Possíveis Extensões
+➕ Adicionar métodos para vincular endereços aos animais;
 
-Validar a existência do arquivo antes da leitura.
+✅ Validar existência e conteúdo do arquivo antes da leitura;
 
-Criar interfaces gráficas para manipulação dos dados.
+🖥 Criar interface gráfica para manipulação dos dados;
 
-Persistência dos dados usando banco de dados.
+💾 Persistir os dados em banco de dados.
